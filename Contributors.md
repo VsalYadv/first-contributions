@@ -18,6 +18,7 @@
 - [Samuel K. Addison](https://github.com/SamAddy)
 - [AKP](https://github.com/AungKhinePhyo)
 - [Ebuka Ejiofor](https://github.com/ebukathedev)
+- [Vishal Yadav](https://github.com/VsalYadv)
 - [Abhijith B N](https://github.com/AbhijithBn)
 - [Deepak Papnoi - 00123]
 - [Sierra Nash](https://github.com/sasianan19)
